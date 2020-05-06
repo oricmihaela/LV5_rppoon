@@ -53,7 +53,6 @@ namespace LV5_rppoon
             myNotebook.ChangeTheme(lightTheme);
             myNotebook.Display();
 
-            Console.ReadLine();
         }
     }
 }
